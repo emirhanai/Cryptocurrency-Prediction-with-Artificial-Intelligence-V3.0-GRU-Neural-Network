@@ -26,8 +26,8 @@ AI Inventor - Senior Artificial Intelligence Engineer
 `Scikit-learn (SKLEARN)`
 
 <img class="fit-picture"
-     src="https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artifical-Intelligence-V3.0-GRU-Neural-Network/blob/main/Cryptocurrency-Prediction-with-Artifical-Intelligence-V3.png?raw=true"
-     alt="Cryptocurrency Prediction with Artifical Intelligence V3.0 [GRU Neural Network]">
+     src="https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence-V3.0-GRU-Neural-Network/blob/main/Cryptocurrency-Prediction-with-Artificial-Intelligence-V3.png?raw=true"
+     alt="Cryptocurrency Prediction with Artificial Intelligence V3.0 [GRU Neural Network]">
      
 ### **Developer Information:**
 
