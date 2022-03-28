@@ -47,7 +47,7 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
 
-**GRU Neural Network Schema [of This Project]**
+### **GRU Neural Network Schema [of This Project]**
 
 <img class="fit-picture"
      src="https://github.com/emirhanai/Cryptocurrency-Prediction-with-Artifical-Intelligence-V3.0-GRU-Neural-Network/blob/main/model_graph.png?raw=true"
